@@ -1,0 +1,9 @@
+C:\Users\Emre Tümer\source\repos\ledprojesi\bin\Debug\ledprojesi.exe.config
+C:\Users\Emre Tümer\source\repos\ledprojesi\bin\Debug\ledprojesi.exe
+C:\Users\Emre Tümer\source\repos\ledprojesi\bin\Debug\ledprojesi.pdb
+C:\Users\Emre Tümer\source\repos\ledprojesi\obj\Debug\ledprojesi.csprojAssemblyReference.cache
+C:\Users\Emre Tümer\source\repos\ledprojesi\obj\Debug\ledprojesi.Form1.resources
+C:\Users\Emre Tümer\source\repos\ledprojesi\obj\Debug\ledprojesi.Properties.Resources.resources
+C:\Users\Emre Tümer\source\repos\ledprojesi\obj\Debug\ledprojesi.csproj.GenerateResource.cache
+C:\Users\Emre Tümer\source\repos\ledprojesi\obj\Debug\ledprojesi.exe
+C:\Users\Emre Tümer\source\repos\ledprojesi\obj\Debug\ledprojesi.pdb
